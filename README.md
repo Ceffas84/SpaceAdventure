@@ -3,11 +3,11 @@
 Developed @ Academia de Código
 
 Created by Code Cadets:<br>
-[Henrique Saraiva](https://github.com/hsaraiva9)
-[Jessica Marcelino](https://github.com/JessicaMarcelino)
-[Marco Silva](https://github.com/marsestarreja)
-[Rute Augusto](https://github.com/RuteAugusto)
-[Simão Pedro](https://github.com/Ceffas84)
+[Henrique Saraiva](https://github.com/hsaraiva9)<br>
+[Jessica Marcelino](https://github.com/JessicaMarcelino)<br>
+[Marco Silva](https://github.com/marsestarreja)<br>
+[Rute Augusto](https://github.com/RuteAugusto)<br>
+[Simão Pedro](https://github.com/Ceffas84)<br>
 
 Project developed during the 4th week of Academia de Código's 22th bootcamp.<br>
 Concepts learned until now:
