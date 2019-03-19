@@ -21,7 +21,6 @@ Polymorphism
 Interfaces
 Simple Graphics Library
 Containers
-Nested Classes
 
 Space Adventure
 At some point in history, mankind decided that Earth wasn't enough, so they went to space and colonized several new planets.
